@@ -84,14 +84,14 @@
             key-positions = <34 22>;
         };
 
-        SCROLL-Layer {
-            bindings = <&lt 5 RIGHT_SHIFT>;
-            key-positions = <31 32>;
-        };
-
         PIN {
             bindings = <&PIN>;
-            key-positions = <42 33>;
+            key-positions = <0 10>;
+        };
+
+        MIDDLE-CLICK {
+            bindings = <&mkp MB3>;
+            key-positions = <31 32>;
         };
     };
 
